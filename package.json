@@ -1,0 +1,19 @@
+{
+  "name": "training-typescript",
+  "version": "0.0.1",
+  "description": "Training TypeScript",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmd45/training-typescript.git"
+  },
+  "author": "tmd45",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmd45/training-typescript/issues"
+  },
+  "homepage": "https://github.com/tmd45/training-typescript#readme"
+}
