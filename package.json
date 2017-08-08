@@ -4,6 +4,7 @@
   "description": "Training TypeScript",
   "main": "index.js",
   "dependencies": {
+    "typescript": "^2.4.2"
   },
   "devDependencies": {},
   "repository": {
